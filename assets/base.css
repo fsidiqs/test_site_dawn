@@ -2439,7 +2439,6 @@ product-info .loading-overlay:not(.hidden) ~ *,
     grid-template-areas: "heading navigation icons";
     grid-template-columns: auto auto 1fr;
     column-gap: 2rem;
-    margin-left: 2rem;
   }
 
   .header--middle-center:not(.drawer-menu) {
